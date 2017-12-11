@@ -1,16 +1,15 @@
 CACHE MANIFEST
 CACHE:
+index.css
+contact.css
+galerie.css
 index.html
 contact.html
 canvas.js
 galerie.html
 multidedia.html
-index.css
-contact.css
-galerie.css
 maisons.html
 maison1.html
 maison2.html
 maison3.html
 maison4.html
-images/*
